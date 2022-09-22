@@ -52,6 +52,6 @@ E: Limited Liability Partnership (LLP),
 ------------------------------------
 
 #### For Feature requests and Error reporting:
-create an issue on [github repository](https://github.com/panjs/issues) or contact directly to [tazimmadre5041@gmail.com](mailto:tazimmadre5041@gmail.com)
+create an issue on [github repository](https://github.com/tazimmadre/panjs/issues) or contact directly to [tazimmadre5041@gmail.com](mailto:tazimmadre5041@gmail.com)
 
-##### **Don't Forget to add a star to [github repo](https://github.com/panjs). Please provide your comments, suggest improvements and other codes which are not covered in this package.
+##### **Don't Forget to add a star to [github repo](https://github.com/tazimmadre/panjs). Please provide your comments, suggest improvements and other codes which are not covered in this package.
