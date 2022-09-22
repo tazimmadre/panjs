@@ -1,6 +1,6 @@
 {
   "name": "panjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this package provides validation of PAN Card of an individual. (Made in India)",
   "main": "index.js",
   "scripts": {
