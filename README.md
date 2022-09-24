@@ -7,12 +7,12 @@
 
 ### NodeJS
 ```javascript
-    npm i panjs
+    npm i pancardjs
 ```
 In your .js file add following code
 
 ```javascript
-    const isValid = require('panjs')
+    const isValid = require('pancardjs')
 ```
 
 ## Usage
