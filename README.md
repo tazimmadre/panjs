@@ -1,4 +1,6 @@
 # panjs
+[![Buy me a Tea](https://badgen.net/badge/icon/Buy%20Me%20A%20Tea/orange?icon=kofi&label)](https://www.buymeacoffee.com/tazimmadre)
+
 ## Validators
 
 ---------------------------------------
